@@ -1,0 +1,5 @@
+pefile
+lief
+capstone
+rzpipe
+qiling
